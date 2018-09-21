@@ -1,0 +1,30 @@
+_repo: Short-Title-Catalog-of-Publications-and-Importations-of-Scientific-and-Engineering-Books-Augu__53911
+_version: 0.0.1
+creator:
+  author:
+    agent_name: D. Van Nostrand Company
+    aliases:
+    - Company, D. Van Nostrand
+    - Van Nostrand Company
+    gutenberg_agent_id: '47615'
+    url: http://www.gutenberg.org/2009/agents/47615
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- New York (State) -- New York'
+- !lcsh 'D. Van Nostrand Company -- Catalogs'
+- !lcsh 'Engineering -- Bibliography -- Catalogs'
+- !lcsh 'Science -- Bibliography -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Booksellers'' catalogs -- New York (State) -- New York'
+- GITenberg
+title: "Short-Title Catalog of Publications and Importations of Scientific and Engineering\
+  \ Books\r\n(August 1910)"
+url: http://www.gutenberg.org/ebooks/53911
